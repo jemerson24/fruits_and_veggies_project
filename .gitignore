@@ -1,0 +1,17 @@
+# Ignore MacOS files
+.DS_Store
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+venv/
+
+# Ignore compiled files
+*.pyc
+dist/
+build/
